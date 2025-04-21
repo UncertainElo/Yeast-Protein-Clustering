@@ -2,7 +2,7 @@
 This is a course project aimed at devising an unsupervised machine learning model to cluster the yeast protein data.
 
 # Course : EE708 ( Even semester 2024-25 ). Intructor : Prof. Rajesh M. Hegde
-# Team Members : Myself (Suryansh Dwivedi, BT-BSBE Y22 Batch), Ganesh Srivathshava Burri (BS-Maths, Y22 Batch), Bhavnoor Singh(BT-CSE, Y23 Batch), Devansh(BT-CSE, Y23 Batch) and Ayushi Mishra(BT-BSBE, Y23 Batch).
+Team Members : Myself (Suryansh Dwivedi, BT-BSBE Y22 Batch), Ganesh Srivathshava Burri (BS-Maths, Y22 Batch), Bhavnoor Singh(BT-CSE, Y23 Batch), Devansh(BT-CSE, Y23 Batch) and Ayushi Mishra(BT-BSBE, Y23 Batch).
 
 **Aim**       : We are required to make a clustering algorithm based on yeast data provided by the 
                 course intructor.
